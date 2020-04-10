@@ -1,0 +1,7 @@
+appId: com.your.id
+productName: App Name
+
+asar: true
+
+directories: 
+  output: build
